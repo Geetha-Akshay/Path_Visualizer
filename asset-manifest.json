@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Path_Visualizer/static/css/main.a8dd588a.css",
+    "main.js": "/Path_Visualizer/static/js/main.7af195bb.js",
+    "index.html": "/Path_Visualizer/index.html",
+    "main.a8dd588a.css.map": "/Path_Visualizer/static/css/main.a8dd588a.css.map",
+    "main.7af195bb.js.map": "/Path_Visualizer/static/js/main.7af195bb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8dd588a.css",
+    "static/js/main.7af195bb.js"
+  ]
+}
